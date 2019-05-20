@@ -1,0 +1,14 @@
+ section{
+
+    background: white;
+    color: gray;
+    padding:10px;
+    display:flex;
+    flex-direction:row;
+}
+
+div{
+    background:pink;
+    margin: auto;
+    width:100px;
+} 
